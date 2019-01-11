@@ -16,7 +16,7 @@ $(document).ready(function(){
         		$("form#updateForm").prop('id','saveForm');
 				$("input#update").prop('name','update');
 				$("input#update").prop('id','update');
-				$('.btn-name').val('Update');
+				$('.btn-name').val('Create');
 				$('.panel-heading').html('Create Form');
 				$('#cancel').hide();
 	});
